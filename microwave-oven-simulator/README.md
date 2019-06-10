@@ -5,5 +5,5 @@ https://www.tinkercad.com/things/4UpZZTBVo0r-microwave-oven-simulator-
 
 Just click 'Simulate' and then 'Start simulation'.
 
-
+![Image description](microwave-oven.png)
 
